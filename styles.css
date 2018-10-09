@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+
+.headline {
+  padding: 80px;
+  font-family: 'Permanent Marker';
+}
+
+.navbar-dark .navbar-brand {
+  color: red;
+}
+
+.jumbotron {
+  background-image: url(assembly-hall.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.logo {
+  height: 150px;
+}
